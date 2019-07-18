@@ -7,7 +7,7 @@ Result Cifar-100 data
 | ---       |         ---     |     ---     |     ---        |
 | ResNet-xx |        ~25M     |     xx.xx     |      xx        |
 | WRN-xx-x  |        ~25M     |     xx.xx     |      xx        |
-| ---       |         ---     |     xx.xx     |      xx        |
+| ---       |         ---     |     ---     |      ---        |
 | ResNet-xx |        ~50M     |     xx.xx     |      xx        |
 | WRN-xx-x  |        ~50M     |     xx.xx     |      xx        |
 | ---       |         ---     |    ---    |      ---        |
