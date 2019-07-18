@@ -13,15 +13,3 @@ Compare ResNet and WRN in classification and detection tasks
 | WRN-xx-x  |        ~75M     |     xx.xx     |      xx        |
 
 
-
-| Model     | # of parameters |      mAP       |
-| ---       |         ---     |     xx         |
-| ResNet-xx |        ~25M     |     xx         |
-| WRN-xx-x  |        ~25M     |     xx         |  
-| ---       |         ---     |     xx         |  
-| ResNet-xx |        ~50M     |     xx         |  
-| WRN-xx-x  |        ~50M     |     xx         |  
-| ---       |         ---     |     xx         |     
-| ResNet-xx |        ~75M     |     xx         |     
-| WRN-xx-x  |        ~75M     |     xx         |     
-
