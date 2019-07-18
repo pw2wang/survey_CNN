@@ -1,5 +1,7 @@
 # survey_CNN
 Compare ResNet and WRN in classification and detection tasks
 
-|Model       | number of parameters | mean accuracy | time/batch(ms)
-|ResNet-xx   | 25M             | xx.xx         | xx
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
