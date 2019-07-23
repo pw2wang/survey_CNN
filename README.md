@@ -1,6 +1,13 @@
 # survey_CNN
 Compare ResNet and WRN in classification and detection tasks
 
+
+Data set: 
+1. Cifar-100 
+Download from: https://www.cs.toronto.edu/~kriz/cifar.html
+2. Pascal VOC 2009 
+Download from: http://host.robots.ox.ac.uk/pascal/VOC/voc2009/index.html
+
 Result Cifar-100 data
 
 | Model     | # of parameters | mean accuracy | time/batch(ms) |
